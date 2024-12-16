@@ -1,0 +1,81 @@
+/* public/css/custom.css */
+
+/* Estilos personalizados */
+.table-custom th, .table-custom td {
+    padding: 12px;
+    text-align: left;
+}
+
+.table-custom th {
+    background-color: #f3f4f6;
+    color: #1f2937;
+    font-weight: bold;
+}
+
+.table-custom td {
+    border-bottom: 1px solid #e5e7eb;
+}
+
+.table-custom tr:hover {
+    background-color: #f9fafb;
+}
+
+.btn-primary-custom {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.btn-primary-custom:hover {
+    background-color: #45a049;
+}
+
+.btn-secondary-custom {
+    background-color: #b8b8b8;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.btn-secondary-custom:hover {
+    background-color: #9e9e9e;
+}
+
+.btn-action {
+    border-radius: 5px;
+    padding: 5px 10px;
+    margin: 5px;
+}
+
+.btn-action-info {
+    background-color: #007bff;
+    color: white;
+}
+
+.btn-action-info:hover {
+    background-color: #0056b3;
+}
+
+.btn-action-warning {
+    background-color: #07bdff;
+    color: white;
+}
+
+.btn-action-warning:hover {
+    background-color: #e0a800;
+}
+
+.btn-action-danger {
+    background-color: #dc3545;
+    color: white;
+}
+
+.btn-action-danger:hover {
+    background-color: #c82333;
+}
+

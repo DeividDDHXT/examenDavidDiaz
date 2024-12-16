@@ -1,0 +1,35 @@
+/* custom-styles.css */
+
+/* Estilo del contenedor principal */
+.product-details-container {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+/* Estilo de las etiquetas de los detalles */
+.product-detail-item {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+/* Estilo para el botón */
+.custom-button {
+    padding: 12px 24px;
+    background-color: #3490dc;
+    color: white;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.custom-button:hover {
+    background-color: #2779bd;
+}
+
+/* Estilos adicionales para la lista */
+.product-details-list {
+    list-style: none;
+    padding: 0;
+}
